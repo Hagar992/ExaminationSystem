@@ -86,4 +86,3 @@ A simple **Examination System** in **C#** that manages courses, students, instru
 
 ---
 
-تحبي أكتبلك كمان **الكود الأساسي (skeleton classes & services)** مع الملف ده بحيث يبقى المشروع جاهز ترفعيه؟
